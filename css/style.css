@@ -127,7 +127,6 @@
 /*** Hero Header ***/
 .hero-header {
     position: relative;
-    margin-top: -100px;
     padding-top: 150px;
     overflow: hidden;
     background: #d8132473;
@@ -262,6 +261,7 @@
     border-right: none;
 
 }
+
 
 
 
