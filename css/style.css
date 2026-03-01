@@ -130,12 +130,6 @@
     margin-top: -100px;
     padding-top: 150px;
     overflow: hidden;
-      background: url(../img/background_academic_aswan.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    animation: animateUpDown 8s ease infinite;
-    z-index: 1;
     background: rgba(216, 19, 36, 0.9);
 }
 
@@ -146,7 +140,7 @@
     height: 100%;
     top: 0;
     left: 0;
-    background: url(../img/hero-header-bg.png);
+    background: url(../img/background_academic_aswan.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -268,4 +262,5 @@
     border-right: none;
 
 }
+
 
