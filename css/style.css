@@ -1,5 +1,8 @@
 /********** Template CSS **********/
-
+html
+ {
+    direction: rtl;
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -261,6 +264,7 @@
     border-right: none;
 
 }
+
 
 
 
