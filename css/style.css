@@ -130,6 +130,12 @@
     margin-top: -100px;
     padding-top: 150px;
     overflow: hidden;
+      background: url(../img/background_academic_aswan.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: animateUpDown 8s ease infinite;
+    z-index: 1;
     background: rgba(216, 19, 36, 0.9);
 }
 
@@ -260,4 +266,5 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+
 }
