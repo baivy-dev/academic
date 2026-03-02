@@ -1,5 +1,5 @@
 /********** Template CSS **********/
-div,h1,p
+.row g-3,h1,p
  {
     direction: rtl;
 }
@@ -264,6 +264,7 @@ div,h1,p
     border-right: none;
 
 }
+
 
 
 
