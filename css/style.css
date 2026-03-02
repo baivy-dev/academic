@@ -3,6 +3,9 @@
  {
     direction: rtl;
 }
+.col-md-6.text-center.text-md-start.mb-3.mb-md-0{
+ text-align:right!important;
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -264,6 +267,7 @@
     border-right: none;
 
 }
+
 
 
 
