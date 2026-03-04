@@ -127,6 +127,10 @@
         transition: .5s;
         opacity: 1;
     }
+ .hero-header {
+  height:0px;
+ }
+ 
 }
 
 
@@ -136,7 +140,7 @@
     padding-top: 150px;
     overflow: hidden;
     /* background: #d8132473; */
-    /* height: 530px; */
+    height: 530px;
 }
 
 .hero-header::before {
@@ -267,6 +271,7 @@
     border-right: none;
 
 }
+
 
 
 
