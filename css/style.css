@@ -137,7 +137,6 @@
     padding-top: 150px;
     overflow: hidden;
     /* background: #d8132473; */
-    height: 530px;
 }
 
 .hero-header::before {
@@ -269,6 +268,7 @@
     border-right: none;
 
 }
+
 
 
 
