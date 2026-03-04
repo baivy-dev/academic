@@ -135,7 +135,7 @@
     position: relative;
     padding-top: 150px;
     overflow: hidden;
-    background: #d8132473;
+    /* background: #d8132473; */
     height: 530px;
 }
 
@@ -267,6 +267,7 @@
     border-right: none;
 
 }
+
 
 
 
