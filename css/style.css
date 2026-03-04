@@ -127,9 +127,6 @@
         transition: .5s;
         opacity: 1;
     }
- .hero-header {
-  height:0px;
- }
  
 }
 
@@ -155,6 +152,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     z-index:-1;
+ height:200px;
 }
 
 @keyframes animateUpDown { 
@@ -271,6 +269,7 @@
     border-right: none;
 
 }
+
 
 
 
