@@ -274,10 +274,11 @@ h4.mb-0{
  white-space: pre-line;
 }
 
-#bai1{
+div#bai1{
   background-image: url("my_background_image.png");
     background-color: #f0f0f0; /* Light gray fallback color 
 }
+
 
 
 
