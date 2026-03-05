@@ -28,6 +28,7 @@
     z-index: 99;
 }
 
+
 /*** Button ***/
 .btn {
     transition: .5s;
@@ -277,6 +278,7 @@ h4.mb-0{
 div#bai1{
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/background_academic_aswan.jpg'); color: white;
 }
+
 
 
 
