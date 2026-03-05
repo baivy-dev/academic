@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 .row.g-3,h1,p
  {
-    direction: rtl;
+    direction: rtl;    
 }
 .col-md-6.text-center.text-md-start.mb-3.mb-md-0{
  text-align:right!important;
@@ -278,6 +278,7 @@ h4.mb-0{
 div#bai1{
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/background_academic_aswan.jpg')!important;
 }
+
 
 
 
