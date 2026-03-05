@@ -276,12 +276,13 @@ h4.mb-0{
 }
 
 div#bai1{
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/background_academic_aswan.jpg')!important;
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/web-banner-christian.webp')!important;
 }
 .btn-secondary  ,.bg-secondary{
     background-color: #000000!important;
     border-color: #000000!important;
 }
+
 
 
 
