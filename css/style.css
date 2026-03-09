@@ -279,6 +279,7 @@ div#bai1{
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../img/web-banner-christian.webp')!important;
  background-size: cover;
      background-repeat: no-repeat;
+ background-position: right;
 }
 @media (max-width: 767px) {
  div#bai1{
@@ -288,6 +289,7 @@ div#bai1{
     background-color: #000000!important;
     border-color: #000000!important;
 }
+
 
 
 
